@@ -1,4 +1,4 @@
-.first, .third, .fifth {
+.odd {
     background-color: rgb(241, 173, 194);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -8,13 +8,11 @@
     font-size: 36px;
 }
 
-.third {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #fourth {
     background-color: rgb(131, 230, 131);
-    font-size: 24px;
     font-weight: 700;
 }  
-
